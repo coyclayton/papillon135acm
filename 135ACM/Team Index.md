@@ -1,0 +1,26 @@
+## Subject Matter Experts Teams
+
+- [[Product Integrity & Reservations]]
+	- Verified
+- [[Core Papillon Accounting]]
+	- Verified
+- [[Core GCSA Accounting ]]
+	- Pending Verification
+- [[Payroll & TimeClock Team]]
+	- Incomplete
+- [[SNV Front Counter Team]]
+	- Verified
+- [[NAZ Front Counter Teams]]
+	- Pending
+- [[NAZ Front Counter Teams]]
+	- Incomplete
+- [[Las Vegas Transportation]]
+	- Unverified
+- [[SNV FlightOps Team - Papillon]]
+	- Verified
+- [[NAZ FlightOps Team - Papillon]]
+	- Unverified
+- [[GCSA FlightOps Team]]
+	- Unverified
+- [[Sales and Marketing]]
+	- Verified
