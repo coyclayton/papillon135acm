@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teams/GCSA FlightOps Team.md",
+                "file": "Meeting Notes/2024-03-15_reservations_update.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#tags",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teams/GCSA FlightOps Team.md",
+                "file": "Meeting Notes/2024-03-15_reservations_update.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teams/GCSA FlightOps Team.md",
+                "file": "Meeting Notes/2024-03-15_reservations_update.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teams/GCSA FlightOps Team.md"
+                "file": "Meeting Notes/2024-03-15_reservations_update.md"
               }
             }
           }
@@ -149,7 +149,14 @@
   },
   "active": "96027fb744cca993",
   "lastOpenFiles": [
+    "index.md",
+    "Teams/Core GCSA Accounting.md",
+    "Meeting Notes/2024-03-15_fake meeting.md",
+    "Meeting Notes/2024-03-15_reservations_update.md",
+    "Meeting Notes/2024-03-07_credit_card_processing.md",
+    "LifeCycles/Reservation Life Cycle.md",
     "Team Index.md",
+    "Teams/135ACM Team.md",
     "Teams/GCSA FlightOps Team.md",
     "Teams/SNV Front Counter Team.md",
     "Teams/SNV FlightOps Team - Papillon.md",
@@ -157,12 +164,8 @@
     "Teams/Product Integrity & Reservations.md",
     "Teams/NAZ Front Counter Teams.md",
     "Teams/Core Papillon Accounting.md",
-    "Teams/Core GCSA Accounting.md",
-    "index.md",
     "Teams/NAZ FlightOps Team - Papillon.md",
     "Teams/Las Vegas Transportation.md",
-    "Meeting Notes/2024-03-07_credit_card_processing.md",
-    "LifeCycles/Reservation Life Cycle.md",
     "LifeCycles/Flight Operation Life Cycle.md",
     "LifeCycles/Credit Card Processing.md",
     "Resources/Images/statmap.png",
