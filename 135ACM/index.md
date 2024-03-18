@@ -7,9 +7,9 @@ Current as of 2024-03-12
 ## Working Goals:
 * [[Reservation Life Cycle]] <font color="orange">( In Progress )</font>
 * [[Flight Operation Life Cycle]] <font color="gray">( Not Started )</font>
-* [[Credit Card Processing]] <font color="orange">( In Progress )</font>
+* [[Credit Card Processing]] <font color="orange">( In Progress )</font> 
 
 ![[statmap.png]]
 
 ## Additional Indexes
-- [[Team Index|Subject Matter Experts]]
+- [[Team Index|Subject Matter Experts Index]]

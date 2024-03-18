@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meeting Notes/2024-03-15_reservations_update.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meeting Notes/2024-03-15_reservations_update.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meeting Notes/2024-03-15_reservations_update.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meeting Notes/2024-03-15_reservations_update.md"
+                "file": "index.md"
               }
             }
           }
@@ -147,16 +148,19 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "96027fb744cca993",
+  "active": "669a18c7ead48ebd",
   "lastOpenFiles": [
-    "index.md",
-    "Teams/Core GCSA Accounting.md",
-    "Meeting Notes/2024-03-15_fake meeting.md",
+    "Demo Note.md",
     "Meeting Notes/2024-03-15_reservations_update.md",
+    "Teams/Engineering & Integration.md",
+    "index.md",
     "Meeting Notes/2024-03-07_credit_card_processing.md",
-    "LifeCycles/Reservation Life Cycle.md",
-    "Team Index.md",
     "Teams/135ACM Team.md",
+    "Meeting Notes/2024-03-15_fake meeting.md",
+    "2024-03-15.md",
+    "LifeCycles/Reservation Life Cycle.md",
+    "Teams/Core GCSA Accounting.md",
+    "Team Index.md",
     "Teams/GCSA FlightOps Team.md",
     "Teams/SNV Front Counter Team.md",
     "Teams/SNV FlightOps Team - Papillon.md",

@@ -1,7 +1,7 @@
 
 ## Attending
 - Wolf [[135ACM Team]]
-- Coy [[Product Integrity & Reservations]]
+- Coy [[Engineering & Integration]]
 - Leina [[Product Integrity & Reservations]]
 
 ## Changes Discussed
@@ -27,10 +27,10 @@
 ### Space Available ( NRSA / NRPS )
 * NRSA - Non Rev Space Available
 * NRPS - Non Rev Positive Space
-* Passengers are associated with a flight / activity but do not occupy inventory,  effectivly "unseated"
+* Passengers are associated with a flight / activity but do not occupy inventory,  effectively "unseated"
 
 ### Private Options
-- Schedule meeting with Bryce @ [[135ACM Team]] , Wolf @ [[135ACM Team]] and Coy [[Product Integrity & Reservations]] to discuss how functionality has been solved in the past. 
+- Schedule meeting with Bryce @ [[135ACM Team]] , Wolf @ [[135ACM Team]] and Coy [[Engineering & Integration]] to discuss how functionality has been solved in the past. 
 
 ---
 #tagingSystem #reservations
