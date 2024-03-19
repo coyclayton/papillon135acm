@@ -1,3 +1,0 @@
-- Barb Johnson <barb@papillon.com>
-- Nadine Gacayan <nadine.gacayan@papillon.com>
-- Maria Cermenaro maria.cermenaro@papillon.com
