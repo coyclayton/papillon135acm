@@ -15,6 +15,8 @@ journey
 ```
 
 ---
+<div style="page-break-after: always;"></div>
+
 ## // Phase 2 : The Reservation Advent
 
 ```mermaid
@@ -40,6 +42,7 @@ journey
 		- Email, Phone, Guarantee Number (may be alpha)
 
 ---
+<div style="page-break-after: always;"></div>
 # // Phase 3: The Living & Evolving Res
 ```mermaid
 journey
@@ -63,6 +66,7 @@ journey
 	- neither of those have happened in which case we need to reach out 
 
 ---
+<div style="page-break-after: always;"></div>
 # // Phase 4: Executing on the Reservation
 
 ```mermaid
@@ -84,6 +88,7 @@ journey
 ```
 
 ---
+<div style="page-break-after: always;"></div>
 # // Phase 5 : Accounting, Verification, Billing
 ```mermaid
 journey
