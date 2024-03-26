@@ -4,6 +4,8 @@
 - Coy [[Engineering & Integration]]
 - Leina [[Product Integrity & Reservations]]
 
+ongoing work on [[Reservation Life Cycle]]
+
 ## Changes Discussed
 - Tour Code – Change to “Package Code” – this is the STANDARD and requires updating throughout
 - “Max Pax” is “really” Max Allowed per “Product Applicability” specified

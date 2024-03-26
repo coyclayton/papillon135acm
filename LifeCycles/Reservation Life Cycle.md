@@ -9,9 +9,9 @@ journey
       Slot Management: 8 : PI, Yield
       Package Management: 8 : PI
     section Price Management
-	   Pricing Structures: 3 : Sales, PI, Eng
-	   Commission Structures: 3 : Sales, PI
-	   Agency Management : 4 : Sales, PI
+	   Pricing Structures: 7 : Sales, PI, Eng
+	   Commission Structures: 7 : Sales, PI
+	   Agency Management : 8 : Sales, PI
 ```
 
 ---
@@ -27,7 +27,7 @@ journey
     section Booking Process
 	   Base Booking Entry : 8 : CSR, Res
 	   Pax Data Entry & Classification : 9 : CSR, Res
-	   Addons: 3 : CSR, Res
+	   Addons: 7 : CSR, Res
 	section Payment
 		Credit Card : 9 : CSR, Res
 		Voucher : 4 : CSR, Res
@@ -75,7 +75,7 @@ journey
 		Transportation: 1 : Res, CSR, Trx
 		Check-In Process: 3 : Res, CSR
 		Upgrade/Upsell : 7 : Res, CSR
-		Seating/Manifesting/Ops : 4 : Res, CSR, Tower, Fltln
+		Seating & Manifest : 4 : Res, CSR, Tower, Fltln
 		Flight Ops Integration: 2 : Res, Csr, Tower, Fltln, FlightOps
 	section Case Processes
 		Reaccomdation: 3 : Res, CSR
@@ -105,6 +105,3 @@ journey
 ```
 
 ---
-## Meeting Notes
-- 2024-03-15 / [[2024-03-15_reservations_update|Notes]]
-- 2024-03-15 / [[2024-03-20_reservations_update|Notes]]
