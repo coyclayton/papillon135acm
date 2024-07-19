@@ -35,6 +35,9 @@ graph TD
 - 2024-03-13 : Mark W. Delivers references to Barb
 - 2024-03-20 : Deep dive meeting w/ current payment vendors proposed
 - 2024-03-25 : Clarification call with i3, 135ACM, and Coy [[Meeting 2024-03-25 Credit Card Follow-on Discussion|*]] , updated charts as a result
+- 2024-03-27 : Mark W. Delivers [[TranSafe VT Guide 1.0.pdf|TranSafe User's Guide]] as well as demo login credentials.
+- 2024-04-03 : Coy determines that the TranSafe virtual terminal is NOT an adequate replacement for Authorize.net & AcceptJS
+	- A conversation established that the VT was not the right solution,  Mark commits to get coy the api docs by 4-4 to 4-5
 
 ## i3 Verticals
 

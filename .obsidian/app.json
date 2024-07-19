@@ -1,5 +1,6 @@
 {
   "pdfExportSettings": {
+    "includeName": true,
     "pageSize": "Letter",
     "landscape": true,
     "margin": "2",

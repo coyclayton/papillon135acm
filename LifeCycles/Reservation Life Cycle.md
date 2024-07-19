@@ -105,3 +105,38 @@ journey
 ```
 
 ---
+
+
+## Reservation State Chart
+
+refactoir with decision of res > 0 or Dispositioned other
+```mermaid
+stateDiagram-v2
+	classDef deepBlue fill:#998CCA,margin:15px
+
+	state "Booking Init. with Booking Hold" as init
+	state "Booked" as booked
+	state "Re-Confirmed" as confirmed
+	state "Checked-In" as checkedin
+	state "On Experience" as onexp
+	state "Disposition:Complete" as complete
+	state "Closed" as closed
+	state "Dispositioned:Other" as disp
+
+	class init,booked,confirmed,checkedin,onexp,complete,closed,disp deepBlue
+	
+	[*] --> init
+	init --> booked : Agent takes payment promise
+	init --> disp : Agent terminates booking
+	booked --> confirmed : Agent contacts guests and reconfirms details.
+    booked --> disp : Agent/Guest Cxl
+	confirmed --> checkedin : Agent performs check-in
+	checkedin --> confirmed : Agent performs uncheck-in
+	confirmed --> disp:  Agent/Guest Cxl
+	checkedin --> onexp : Guest departs on experience
+	onexp --> complete : Guest Returns from Experience
+	complete --> closed : Accounting run's their invoice batch process
+	closed --> complete : Accounting walks back reservation
+	closed --> [*]
+	disp --> complete : If VALUE of reservation > 0
+```
