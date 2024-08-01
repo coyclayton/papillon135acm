@@ -109,7 +109,7 @@ journey
 
 ## Reservation State Chart
 
-refactoir with decision of res > 0 or Dispositioned other
+refactor with decision of res > 0 or Dispositioned other
 ```mermaid
 stateDiagram-v2
 	classDef deepBlue fill:#998CCA,margin:15px
